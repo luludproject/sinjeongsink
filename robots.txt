@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sinjeongsink.pages.dev/sitemap.xml

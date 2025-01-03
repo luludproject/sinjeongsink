@@ -2,17 +2,18 @@
 
   <url>
     <loc>https://sinjeongsink.pages.dev</loc>
-    <changefreq>daliy</changefreq>
-    <priority>1.00</priority></url>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
 
   <url>
     <loc>https://sinjeongsink.pages.dev/service</loc>
-    <changefreq>daliy</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://sinjeongsink.pages.dev/blog</loc>
-    <changefreq>daliy</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
 

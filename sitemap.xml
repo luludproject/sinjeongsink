@@ -1,9 +1,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://sinjeongsink.pages.dev<loc>
     <changefreq>daliy</changefreq>
-    <priority>1.00</priority>
-  </url>
+    <priority>1.00</priority></url>
+
   <url>
     <loc>https://sinjeongsink.pages.dev/service</loc>
     <changefreq>daliy</changefreq>
@@ -14,8 +15,6 @@
     <changefreq>daliy</changefreq>
     <priority>1.00</priority>
   </url>
-
-  
 
 <url>
 <loc>https://sinjeongsink.pages.dev/blog/신정1동세면대뚫음싱크대막힘잘뚫는곳추천</loc>
